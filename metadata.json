@@ -1,0 +1,6 @@
+{
+  "name": "Fundación Por Un Mundo Mejor",
+  "description": "Fundación para la atención y prevención de las adicciones en Córdoba. Promoción de la salud mental, prevención del consumo problemático, acompañamiento y comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
